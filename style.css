@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+#firstPlayer{
+    background-color: rgb(62, 99, 201);
+    color: white;
+    width: 8rem;
+    height: 4em;
+    border-radius: 5%;
+}
+#secondPlayer{
+    background-color: rgb(235, 111, 90);
+    color: white;
+    width: 8rem;
+    height: 4em;
+    border-radius: 5%;
+}
+#reset{
+    background-color: rgb(123, 212, 123);
+    color: white;
+    width: 8em;
+    height: 4em;
+    border-radius: 5%;
+}
+
